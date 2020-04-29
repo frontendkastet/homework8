@@ -346,6 +346,14 @@ transition: 0.4s ease-in-out;
     margin-bottom: 35px
 }
 
+.add_cont{
+    margin-right: 0px;
+    margin-left: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    max-width: 1200px;
+}
+
 
 
 .text_block6{
